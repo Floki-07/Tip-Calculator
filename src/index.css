@@ -1,0 +1,10 @@
+.box{
+
+    background-color: beige;
+    height: 10vh;
+    width: 30vw;
+    padding:10px;
+    font-weight: 600;
+    margin-top: 10px;
+    border-radius: 12px;
+}
